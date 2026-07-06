@@ -1,0 +1,13 @@
+{
+  "name": "Auto Period",
+  "description": "Automatically appends a period to the end of messages.",
+  "authors": [
+    {
+      "name": "YourName"
+    }
+  ],
+  "main": "index.ts",
+  "vendetta": {
+    "icon": "ic_message"
+  }
+}
