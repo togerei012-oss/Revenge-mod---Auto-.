@@ -3,7 +3,7 @@
   "description": "Automatically appends a period to the end of messages.",
   "authors": [
     {
-      "name": "YourName"
+      "name": "Rei"
     }
   ],
   "main": "index.ts",
